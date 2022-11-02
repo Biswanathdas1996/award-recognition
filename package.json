@@ -1,7 +1,7 @@
 {
   "name": "nft.com",
   "version": "0.1.0",
-  "homepage": "http://20.40.49.126:8080/awards-recognition/",
+  "homepage": "http://20.40.49.126:8080/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
